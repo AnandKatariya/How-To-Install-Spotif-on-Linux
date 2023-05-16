@@ -6,3 +6,10 @@
 </p>
 ### 🏠 [Homepage](https://github.com/AnandKatariya?tab=repositories)
 
+## Install snap on linux
+```sh
+sudo apt install snapd
+```
+
+
+
