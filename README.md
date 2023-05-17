@@ -30,3 +30,8 @@ sudo apt-get update && sudo apt-get install spotify-client
 
 Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/AnandKatariya/How-To-Install-Spotif-on-Linux/issues).
 
+## Show your support
+
+Give a ⭐️ if this project helped you! <br>
+Stay tuned for more updates
+
