@@ -20,6 +20,7 @@ echo "deb http://repository.spotify.com stable non-free" | sudo tee /etc/apt/sou
 ```sh
 sudo apt-get update && sudo apt-get install spotify-client
 ```
+<h3> After installation login into spotify and have fun. </h3>
 ## Author
 
 👤 **Anand Katariya**
